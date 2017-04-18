@@ -7,4 +7,4 @@ var beerQuery = new BeerQuery();
 
 // this will contain the routes to get the beer data from the mongo db
 
-module.exports = beerQuery;
+module.exports = beerRouter;
